@@ -1,7 +1,7 @@
 ### TaobaoDemo
 > **一个RecyclerView实现淘宝首页**
 
-> **使用RecyclerView的多条目布局，充分利用spanCount**
+> **使用RecyclerView的多条目布局,spanCount**
 
 
 ### Demo
